@@ -31,8 +31,8 @@ A special thanks to my ~~demon~~ cat, Nugget, for constantly laying on my keyboa
 * 
 
 ## Screenshots
-assets\images\top-of-page.jpg
-assets\images\bottom-of-page.jpg
+![ScreenShot] (https://raw.githubusercontent.com/404pandas/challenge-horiseon/main/assets/images/top-of-page.jpg)
+![ScreenShot] assets\images\bottom-of-page.jpg
 
 ## License
 
