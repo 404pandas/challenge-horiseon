@@ -14,10 +14,6 @@ This project is a code refactor for the Horiseon website homepage. The purposes 
     * Comments added to delineate each separation
 * A descriptive title was added
 
-## Installation
-
-Upload index.html, license.txt, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
-
 ## Usage
 
 Once deployed the application can be viewed in a traditional desktop web browser.  It it not yet optimized for smaller screens.
@@ -29,6 +25,14 @@ A special thanks to my ~~demon~~ cat, Nugget, for constantly laying on my keyboa
 ### References and tutorials utilized
 * [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+
+## Links
+* [https://404pandas.github.io/challenge-horiseon/] (https://404pandas.github.io/challenge-horiseon/)
+* 
+
+## Screenshots
+assets\images\top-of-page.jpg
+assets\images\bottom-of-page.jpg
 
 ## License
 
