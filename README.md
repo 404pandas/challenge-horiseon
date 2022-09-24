@@ -28,11 +28,11 @@ A special thanks to my ~~demon~~ cat, Nugget, for constantly laying on my keyboa
 
 ## Links
 * [https://404pandas.github.io/challenge-horiseon/] (https://404pandas.github.io/challenge-horiseon/)
-* 
+* [https://github.com/404pandas/challenge-horiseon] (https://github.com/404pandas/challenge-horiseon)
 
 ## Screenshots
 ![ScreenShot] (https://raw.githubusercontent.com/404pandas/challenge-horiseon/main/assets/images/top-of-page.jpg)
-![ScreenShot] assets\images\bottom-of-page.jpg
+![ScreenShot] (https://raw.githubusercontent.com/404pandas/challenge-horiseon/main/assets/images/bottom-of-page-new.jpg)
 
 ## License
 
