@@ -22,7 +22,7 @@ Once deployed the application can be viewed in a traditional desktop web browser
 Collaborators on this project included instructional staff, TAs, and students from University of Central Florida.
 A special thanks to my ~~demon~~ cat, Nugget, for constantly laying on my keyboard and providing unncessary code.
 
-### References and tutorials utilized
+## References and tutorials utilized
 * [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
@@ -31,8 +31,8 @@ A special thanks to my ~~demon~~ cat, Nugget, for constantly laying on my keyboa
 * [https://github.com/404pandas/challenge-horiseon] (https://github.com/404pandas/challenge-horiseon)
 
 ## Screenshots
-![ScreenShot] (https://raw.githubusercontent.com/404pandas/challenge-horiseon/main/assets/images/top-of-page.jpg)
-![ScreenShot] (https://raw.githubusercontent.com/404pandas/challenge-horiseon/main/assets/images/bottom-of-page-new.jpg)
+* (https://raw.githubusercontent.com/404pandas/challenge-horiseon/main/assets/images/top-of-page.jpg)
+* (https://raw.githubusercontent.com/404pandas/challenge-horiseon/main/assets/images/bottom-of-page-new.jpg)
 
 ## License
 
